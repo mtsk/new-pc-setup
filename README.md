@@ -30,10 +30,10 @@ Things I install and do when setting up a new Windows PC.
     - Tree Style Tab
       - Import `Firefox/TreeStyleTab.json` in the options screen
       - To hide horizontal tabs:
-        1. Open [`about:config`](about:config) and change
+        1. Open `about:config` and change
            `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
-        1. Open [`about:profiles`](about:profiles), open the root directory of
-           the default profile, create a folder called `chrome` and place
+        1. Open `about:profiles`, open the root directory of the default
+           profile, create a folder called `chrome` and place
            `Firefox/userChrome.css` there
     - Vim Vixen: copy and paste the contents of `Firefox/VimVixen.json`
 - [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) for better start
