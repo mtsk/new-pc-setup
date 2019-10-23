@@ -53,13 +53,13 @@ Things I install and do when setting up a new Windows PC.
 ## Development
 
 - [Chrome](https://www.google.com/chrome/) for web development as I feel that
-  the dev tools just feeld more fluid
+  the dev tools are just more fluid compared to Firefox
 - [ConEmu](https://conemu.github.io/) for better Git experience (tabs!)
   - Import `ConEmu.xml`
 - [Node.js](https://nodejs.org/en/)
 - [VS Code](https://code.visualstudio.com/)
-  - Ctrl+P > `ext install code-settings-sync` > Install it > Ctrl+Shift+P >
-    "Sync: Update/Upload Settings"
+  - Ctrl+Shift+P > `ext install code-settings-sync` > Install it > Ctrl+Shift+P
+    \> "Sync: Update/Upload Settings"
 
 ## Gaming
 
