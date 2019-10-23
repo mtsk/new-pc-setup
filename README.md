@@ -77,3 +77,5 @@ Things I install and do when setting up a new Windows PC.
 - KeePass or Bitwarden?
 - Notepad++, Sublime Text or Vim for quick note taking?
 - Add UHK config
+- Tweak Windows 10 settings for better privacy?
+- Disable OneDrive
