@@ -33,7 +33,7 @@ Things I install and do when setting up a new Windows PC.
         1. Open `about:config` and change
            `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
         1. Open `about:profiles`, open the root directory of the default
-           profile, create a folder called `chrome` and place
+           profile, create a folder called `chrome` and copy
            `Firefox/userChrome.css` there
     - Vim Vixen: copy and paste the contents of `Firefox/VimVixen.json`
 - [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) for better start
