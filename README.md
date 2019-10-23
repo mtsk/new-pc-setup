@@ -45,9 +45,9 @@ Things I install and do when setting up a new Windows PC.
 - [T-Clock](https://github.com/White-Tiger/T-Clock) for better taskbar clock and
   calendar
   - Options
-    - "Time Format" tab > Select "Advanced clock format" > `HH:nn:ss\nddd d.m.`
+    - "Time Format" tab → Select "Advanced clock format" → `HH:nn:ss\nddd d.m.`
       (will look like "19:45:13 pe 13.9.")
-    - "Miscellaneous" tab > Select "Use T-Clock's calendar" (it has week
+    - "Miscellaneous" tab → Select "Use T-Clock's calendar" (it has week
       numbers! :muscle:)
 
 ## Development
@@ -58,8 +58,8 @@ Things I install and do when setting up a new Windows PC.
   - Import `ConEmu.xml`
 - [Node.js](https://nodejs.org/en/)
 - [VS Code](https://code.visualstudio.com/)
-  - Ctrl+Shift+P > `ext install code-settings-sync` > Install it > Ctrl+Shift+P
-    \> "Sync: Update/Upload Settings"
+  - Ctrl+Shift+P → `ext install code-settings-sync` → Install it → Ctrl+Shift+P
+    → "Sync: Update/Upload Settings"
 
 ## Gaming
 
