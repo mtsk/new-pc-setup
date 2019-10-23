@@ -5,12 +5,13 @@ Things I install and do when setting up a new Windows PC.
 ## First steps
 
 1. Install [Firefox](https://www.mozilla.org/en-US/firefox/)
-1. Install [Git](https://git-scm.com/download/win)
-   - `cp .bashrc .gitconfig .gitignore_global -t ~/`
-   - `. ~/.bashrc`
-1. Clone this repo to more easily install and do the rest
+1. Install [Git](https://git-scm.com/download/win), then run:
+   1. `git clone https://github.com/mtsk/new-pc-setup`
+   1. `cp .bashrc .gitconfig .gitignore_global -t ~/`
+   1. `. ~/.bashrc`
 1. Install [TouchCursor](https://martin-stone.github.io/touchcursor/) as it
-   makes everything so much better by providing vim-like keybindings everywhere
+   makes everything so much better by providing vim-like keybindings everywhere;
+   then run:
    - `cp TouchCursor.cfg $APPDATA/TouchCursor/settings.cfg`
 
 ## General apps
