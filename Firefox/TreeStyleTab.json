@@ -1,0 +1,22 @@
+{
+  "autoCollapseExpandSubtreeOnAttach": false,
+  "autoCollapseExpandSubtreeOnSelect": false,
+  "autoGroupNewTabs": false,
+  "autoGroupNewTabsFromPinned": false,
+  "closeParentBehaviorMode": 1,
+  "collapseExpandSubtreeByDblClick": true,
+  "configsVersion": 7,
+  "context_bookmarkTree": false,
+  "context_closeDescendants": true,
+  "context_collapseAll": false,
+  "context_expandAll": false,
+  "context_groupTabs": false,
+  "context_reloadDescendants": true,
+  "dropLinksOnTabBehavior": 2,
+  "maxTreeLevel": 5,
+  "notifiedFeaturesVersion": 3,
+  "optionsExpandedSections": [
+    "section-debug"
+  ],
+  "warnOnAutoGroupNewTabs": false
+}
